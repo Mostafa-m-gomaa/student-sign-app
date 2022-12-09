@@ -1,0 +1,21 @@
+form{
+    width: 50%;
+    margin: auto;
+    background: darkslategrey;
+    text-align: center;
+}
+form input{
+    height: 40px;
+    background: black;
+    color: white;
+    border: none;
+    padding: 0 14px;
+    margin: 10px;
+}
+form input[type=submit]{
+    padding: 12px;
+    text-transform: capitalize;
+    background: darkcyan;
+    cursor: pointer;
+    border-radius: 6px;
+}

@@ -1,0 +1,45 @@
+.sata-father .table-head,
+.data{
+    background-color: #ffc153;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+
+}
+.sata-father .table-head span ,
+.data span{
+    font-size: 30px;
+    text-transform: capitalize;
+    min-width: 33.33%;
+    text-align: center;
+    margin: 15px 0 ;
+    
+
+}
+.data span{
+    color: rgb(83, 81, 78);
+    font-size: 24px;
+    border-bottom: 2px solid;
+    padding-bottom: 20px;
+}
+.x{
+    cursor: pointer;
+    transition: 0.3s;
+}
+.x:hover{
+color: black;
+font-weight: bold;
+}
+.no-p{
+    font-size: 31px;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 4px;
+    background-color: mediumseagreen;
+    width: 50%;
+    margin: auto;
+    padding: 11px 0;
+    border: 2px solid ghostwhite;
+}
