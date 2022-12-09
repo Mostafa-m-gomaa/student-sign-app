@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/student-sign-app/static/css/main.1dfa104d.css",
+    "main.js": "/student-sign-app/static/js/main.6bb908f7.js",
+    "static/js/787.607f773e.chunk.js": "/student-sign-app/static/js/787.607f773e.chunk.js",
+    "index.html": "/student-sign-app/index.html",
+    "main.1dfa104d.css.map": "/student-sign-app/static/css/main.1dfa104d.css.map",
+    "main.6bb908f7.js.map": "/student-sign-app/static/js/main.6bb908f7.js.map",
+    "787.607f773e.chunk.js.map": "/student-sign-app/static/js/787.607f773e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dfa104d.css",
+    "static/js/main.6bb908f7.js"
+  ]
+}
